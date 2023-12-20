@@ -4,6 +4,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frhdwjdrltnfehzheld&count_bg=%2379C83D&title_bg=%23555555&icon=aiqfome.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+[![SJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhdwjdrltnfehzheld&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/rhdwjdrltnfehzheld/github-readme-stats)
+
 **rhdwjdrltnfehzheld/rhdwjdrltnfehzheld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
